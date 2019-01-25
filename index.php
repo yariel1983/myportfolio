@@ -34,7 +34,7 @@
                         <h6>HTML, HTML5, BOOTSTRAP, CSS, CSS3, SASS, SCSS, REACT.JSX, REACT.JS INSPECTOR, AJAX, FETCH, RESTful API, JR. JAVA SCRIPT, VANILLA JS, NPM, NVM, NPM RUN BUILD, NPM RUN C9, WEB SERVICES, WEB CONSOLE & INSPECTOR, DEBUG, LINUX TERMINAL, APACHE SERVER, COMMAND LINE, GITHUB REPOSITORY, BREATHECO WEBPACK, FONT AWESOME, WORDPRESS PLUGINS WOOCOMMERCE, JETPACK, ACF, PHP, CLOUD9 IDE EXPERT, PROBLEM SOLVER..</h6>
                         <div class="container">
                             <!-- Grid row-->
-                            <div class="row">
+                            <div class="container-fluid">
 
                                 <!-- Grid column -->
                                 <div class="col-md-12 py-5">
@@ -42,7 +42,7 @@
 
                                         <!-- Facebook -->
                                         <a class="fb-ic">
-                                            <i class="fab fa-facebook-f fa-lg white-text mr-md-5 mr-3 fa-2x"> </i>
+                                            <i class="fab fa-facebook-f fa-lg white-text mr-md-5 mb-md-5 mr-3 fa-2x"> </i>
                                         </a>
                                         <!-- Twitter -->
                                         <a class="tw-ic">
